@@ -22,9 +22,9 @@
          <image>
             <Image url="@../images/icon.png" />
          </image></ImageView>
-      <Label layoutX="407.0" layoutY="168.0" prefHeight="62.0" prefWidth="188.0" text="SIGN UP">
+      <Label layoutX="365.0" layoutY="164.0" prefHeight="62.0" prefWidth="218.0" stylesheets="@../css/label.css" text="SIGN  UP">
          <font>
-            <Font name="Gill Sans Ultra Bold" size="36.0" />
+            <Font name="Magneto Bold" size="36.0" />
          </font>
       </Label>
       <Label layoutX="77.0" layoutY="266.0" prefHeight="27.0" prefWidth="92.0" stylesheets="@../css/label.css" text="Name">
@@ -56,14 +56,14 @@
             <Image url="@../images/defaultImage.png" />
          </image>
       </ImageView>
-      <Button layoutX="731.0" layoutY="479.0" mnemonicParsing="false" onAction="#ChooseImageAction" text="Choose your Image" />
-      <Button layoutX="452.0" layoutY="454.0" mnemonicParsing="false" onAction="#SignUpAction" text="Create account" />
+      <Button layoutX="731.0" layoutY="479.0" mnemonicParsing="false" onAction="#ChooseImageAction" stylesheets="@../css/button.css" text="Choose your Image" />
+      <Button layoutX="452.0" layoutY="454.0" mnemonicParsing="false" onAction="#SignUpAction" stylesheets="@../css/button.css" text="Create account" />
       <Text fx:id="successMessage" fill="#67b508" layoutX="394.0" layoutY="211.0" strokeType="OUTSIDE" strokeWidth="0.0">
          <font>
             <Font size="15.0" />
          </font>
       </Text>
-      <Button layoutX="474.0" layoutY="492.0" mnemonicParsing="false" onAction="#onCancelButton" text="Cancel" />
+      <Button layoutX="474.0" layoutY="492.0" mnemonicParsing="false" onAction="#onCancelButton" stylesheets="@../css/button.css" text="Cancel" />
       <AnchorPane prefHeight="40.0" prefWidth="1001.0" style="-fx-background-color: #66cdaa;">
          <children>
             <Button fx:id="closeButton" layoutX="959.0" layoutY="5.0" mnemonicParsing="false" onAction="#closeAction" prefHeight="29.0" prefWidth="30.0" styleClass="closeButton" stylesheets="@../css/menu-bar.css" text="X" textFill="WHITE">

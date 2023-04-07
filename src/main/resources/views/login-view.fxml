@@ -88,5 +88,6 @@
             <Font name="Magneto Bold" size="36.0" />
          </font>
       </Label>
+      <Button layoutX="145.0" layoutY="436.0" mnemonicParsing="false" onAction="#switchToOptionSceneTest" text="Move to option Test" />
    </children>
 </AnchorPane>

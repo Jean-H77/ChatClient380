@@ -2,7 +2,7 @@
     -fx-background-color: -fx-text-box-border, -fx-background ;
     -fx-background-insets: 0, 0 0 2 0 ;
     -fx-background-radius: 0 ;
-    -fx-text-fill: rgb(102, 205, 170);
+    -fx-text-fill: rgb(0,128,128);
 }
 .text-field:focused {
     -fx-background-color:  rgb(102, 205, 170), -fx-background ;

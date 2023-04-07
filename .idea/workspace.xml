@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f0882c1-348b-4857-bd8b-ed578ef3c91d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/client/controllers/OptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/settingIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/views/option-view.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/client/controllers/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/client/controllers/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/client/controllers/SignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/client/controllers/SignUpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/client/model/SceneType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/client/model/SceneType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/css/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/css/menu-bar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/menu-bar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/views/login-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/views/login-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +49,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -80,6 +89,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\University\Srping 2023\COMP 380\Client380\src\main\resources\images" />
       <recent name="C:\Users\John\Desktop\Source\Client380\src\main\resources\images" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.client.controllers" />
     </key>
   </component>
   <component name="RunManager">
@@ -131,7 +143,7 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Client380$ApplicationLauncher.ic" NAME="ApplicationLauncher Coverage Results" MODIFIED="1680290299007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Client380$ApplicationLauncher.ic" NAME="ApplicationLauncher Coverage Results" MODIFIED="1680801603244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.client.managers.*</FILTER>
     </SUITE>
   </component>

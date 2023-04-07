@@ -40,6 +40,12 @@ public class LoginController implements Controller {
     }
 
     @FXML
+    public void switchToOptionSceneTest() throws  IOException
+    {
+        sceneManager.switchScene(SceneType.OPTION_SCENE);
+    }
+
+    @FXML
     Button closeButton = new Button();
     @FXML
     Button minimizeButton = new Button();
